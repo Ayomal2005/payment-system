@@ -168,7 +168,11 @@ const PaymentManagementSystem = () => {
           </div>
 
           <div className="mt-8 p-4 bg-gray-50 rounded-lg">
-           
+            <p className="text-sm text-gray-600 text-center">
+              <strong>Demo Credentials:</strong><br />
+             ....: ....<br />
+             ....:....
+            </p>
           </div>
         </div>
       </div>
